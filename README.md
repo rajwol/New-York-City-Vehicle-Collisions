@@ -35,9 +35,3 @@ The primary objective is to leverage SQL for data analysis and visualize these i
 
 2. **Injuries & Fatalities**: Trends within the data shows that vehicle colisions account for an average of 267 fatalities per year. Furthermore, approximately 40% of all collisions result in an injury.
 
-3. **Discrepancies in Coverage Across Races**: Black (21.88%), Native (15.12%), and Hawaiian (13.62%) populations have signicantly lower coverage proportions, potentially leading to financial strain, increase in debt, and avoidance of necessary medical care across the underrepresented races.
-
-4. **COVID-19 Impacts**: The hospital saw an approximate 15% rise for claim costs in 2020 when compared to 2019, followed by an approximate 11% decrease in the subsequent year. Understanding these trends can help forecast the planning and managing of healthcare resources in the case of a future crisis.
-
-5. **Length of Stay Based On Specific Conditions**: Sepsis (203 hours) and COVID-19 (183 hours) saw the highest average Length of Stay(LOS). By focusing on allocation for both resources and adquate staffing in addition to cost management and process improvements, the hospital can enhance the care provided to patients with severe health conditions while potentially reducing LOS.
-

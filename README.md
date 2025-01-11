@@ -1,4 +1,4 @@
-# New York-City Vehicle Collisions Analysis (2018 - 2024)
+# New York City Vehicle Collisions Analysis (2018 - 2024)
 
 ## **Project Overview**
 
@@ -31,9 +31,9 @@ The primary objective is to leverage SQL for data analysis and visualize these i
 
 ## **Analysis**
 
-1. **Readmittance rate**: A high readmittance rate (87.68%) indicates a lack of treatment quality and a need for better post-discharge care and follow-up
+1. **Pay Attention!**: Through all combination of borough and year, driver inattention / distraction was the number one contributing to collisions.
 
-2. **Uninsured Patients**: The hospital saw 8807 encounters with No Insurance, emphasizing to management on the need to reduce higher costs for uninsured patients.
+2. **Injuries & Fatalities**: Trends within the data shows that vehicle colisions account for an average of 267 fatalities per year. Furthermore, approximately 40% of all collisions result in an injury.
 
 3. **Discrepancies in Coverage Across Races**: Black (21.88%), Native (15.12%), and Hawaiian (13.62%) populations have signicantly lower coverage proportions, potentially leading to financial strain, increase in debt, and avoidance of necessary medical care across the underrepresented races.
 
